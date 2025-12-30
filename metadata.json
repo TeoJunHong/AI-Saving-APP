@@ -1,0 +1,7 @@
+{
+  "name": "SpendWise AI",
+  "description": "An intuitive, AI-powered expense tracker with natural language logging, gamified streaks, and smart financial coaching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
